@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     cors_origins: str = "http://localhost:5173"
     gemini_api_key: str = ""
     gemini_model: str = "gemini-3.5-flash"
-    google_client_id: str = "1000527489380-iphc8jukk3noqr4dg627ls090gstssls.apps.googleusercontent.com"
+    google_client_id: str = ""
 
     class Config:
         env_file = ".env"
