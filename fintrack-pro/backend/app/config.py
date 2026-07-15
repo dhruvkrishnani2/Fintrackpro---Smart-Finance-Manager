@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     mfa_issuer_name: str = "FinTrack Pro"
     algorithm: str = "HS256"
     cors_origins: str = "http://localhost:5173"
-    gemini_api_key: str = "AQ.Ab8RN6LhLg9KDYmpnmP3VE11rylN-v4P3t8yQPahM30yktyrUg"
+    gemini_api_key: str = ""
     gemini_model: str = "gemini-3.5-flash"
     google_client_id: str = "1000527489380-iphc8jukk3noqr4dg627ls090gstssls.apps.googleusercontent.com"
 
