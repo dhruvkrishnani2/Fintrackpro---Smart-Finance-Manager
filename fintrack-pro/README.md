@@ -78,7 +78,7 @@ Ask free-form questions like *"how much did I spend on food this month?"* or *"a
 | Data/ML | pandas, scikit-learn (forecasting), Naive Bayes (auto-categorization) |
 | AI Assistant | Google Gemini (`google-genai`) with function calling |
 | Reporting | openpyxl, reportlab |
-| Deployment | Docker, elastic breanstalk, amplify |
+| Deployment | Docker, Elastic Beanstalk, Amplify |
 
 ## Project Structure
 
